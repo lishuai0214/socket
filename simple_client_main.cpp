@@ -3,6 +3,7 @@
 #include "SocketException.h"
 #include <iostream>
 #include <string>
+#include "MySQLManager.h" 
 
 int main ( int argc, char * argv[] )
 {
