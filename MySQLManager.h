@@ -11,7 +11,7 @@
 
 //#include "../Common/CheckStringTools.h"    
 
-#include </usr/include/mysql/mysql.h>    
+#include <mysql.h>    
 
 #include <string>    
 #include <iostream>    

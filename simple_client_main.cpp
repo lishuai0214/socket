@@ -15,7 +15,7 @@ int main ( int argc, char * argv[] )
   try
     {
 
-      ClientSocket client_socket ( "192.168.1.30", 30000 );
+      ClientSocket client_socket ( "192.168.1.36", 30000 );
 
       std::string reply;
 
